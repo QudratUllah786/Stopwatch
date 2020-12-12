@@ -1,0 +1,11 @@
+.qwe{
+    display: inline-block !important;
+    width: 100px !important;
+}
+.btn-outline-secondary{
+    margin-right: 30px !important;
+    width: 70px;
+}
+.text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
